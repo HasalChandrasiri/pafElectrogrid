@@ -12,5 +12,5 @@ public class ReportResource {
 		r1.setCategory(null);
 		return r1 ;;
 	}*/
-
+ //test
 }
