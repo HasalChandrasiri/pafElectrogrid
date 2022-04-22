@@ -9,7 +9,7 @@ import jakarta.ws.rs.Path;
 public class ReportResource {
 	
 	@GET 
-	public Report .326590(5) {
+	public Report getReport() {
 		
 	
 		Report r1 = new Report() ;
