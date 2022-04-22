@@ -1,4 +1,4 @@
-package com.consumption.demoConsumption;
+package com.consumption.demoConsumption.model;
 
 public class Report {
 	private int reportID ;
